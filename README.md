@@ -1,2 +1,2 @@
 Link 
-https://devprojecthunt.netlify.app/
+https://chrahuldev.netlify.app/
